@@ -16,7 +16,7 @@ jemallocator = { version = "0.5", features = ["disable_initial_exec_tls"] }
 [dependencies]
 ahash = "0.8"
 ciborium = "0.2.0"
-lexical-core = "0.8"
+lexical-core = "1.0"
 # todo: unfix when compilation problem is solved
 libc = "0.2"
 ndarray = "0.15"
