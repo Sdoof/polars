@@ -166,7 +166,7 @@ polars-arrow = { version = "0.30.0", path = "../polars-arrow", features = ["comp
 polars-error = { version = "0.30.0", path = "../polars-error" }
 polars-row = { version = "0.30.0", path = "../polars-row" }
 polars-utils = { version = "0.30.0", path = "../polars-utils" }
-rand = { version = "0.8", optional = true, features = ["small_rng", "std"] }
+rand = { version = "0.9", optional = true, features = ["small_rng", "std"] }
 rand_distr = { version = "0.4", optional = true }
 rayon.workspace = true
 regex = { version = "1.6", optional = true }
